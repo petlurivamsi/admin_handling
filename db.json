@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body 2",
+      "publishedAt": "2021/02/26"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body 3",
+      "publishedAt": "2021/04/26"
+    },
+    {
+      "title": "Post 5",
+      "body": "This is post 5",
+      "publishedAt": "2021/03/18",
+      "id": "3wRWWoJ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Vamsi Krishna",
+      "email": "Vamsi.Petluri@gmail.com"
+    }
+  ]
+}
